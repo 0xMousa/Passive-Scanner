@@ -1,6 +1,6 @@
 # scanner
 scanner
-![alt text](https://raw.githubusercontent.com/0xf1f1/second/master/img/Screenshot%20from%202019-02-25%2010-56-00.png)
+![alt text](https://raw.githubusercontent.com/0xf1f1/second/master/img/output.png)
 
 
 
