@@ -1,8 +1,7 @@
 # scanner
 
-Passive Scaner script get pcap file and get all open port and OS fingerprint <br />
-this colum don't has any meaning in TCP<br />
-
+Passive Scaner script get pcap file and get all open port and OS fingerprint <br /><br />
+States colum don't has any meaning in TCP<br />
 but in UDP<br />
   we have tow status:<br />
      1. open : this means i have response<br />
