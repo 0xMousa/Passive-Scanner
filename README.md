@@ -1,6 +1,6 @@
 # scanner
 
-I add a new colum call status <br />
+Passive Scaner script get pcap file and get all open port and OS fingerprint <br />
 this colum don't has any meaning in TCP<br />
 
 but in UDP<br />
