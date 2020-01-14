@@ -3,7 +3,7 @@
 Passive Scaner script get a PCAP file and analysis all packets and create a table have open ports and OS using TTL fingerprint.<br /><br />
 States colum don't has any meaning on TCP<br />
 but in UDP<br />
-  we have tow status:<br />
+  we have two status:<br />
      1. open : this means i have response<br />
      2. open|filtered : No response received<br />
 <br /><br />
