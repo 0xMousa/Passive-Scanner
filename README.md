@@ -1,6 +1,6 @@
-# scanner
+# Passive Scanner 
 
-Passive Scaner script get a PCAP file and analysis all packets and create a table have open ports and OS using TTL fingerprint.<br /><br />
+Passive Scaner it script that get a PCAP file and analysis all packets and create a table have open ports and OS using TTL fingerprint.<br /><br />
 States colum don't has any meaning on TCP<br />
 but in UDP<br />
   we have two status:<br />
